@@ -26,7 +26,8 @@
       <name>Canais TV - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/canais.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link>https://goo.gl/XSgzDo</link>
+<link></link>
+  <externallink>https://goo.gl/XSgzDo</externallink>
 </channel>
   </channels>
  
@@ -35,7 +36,8 @@
       <name>Animes - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/animes.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/animes.xml</link>
+<link></link>
+  <externallink>https://goo.gl/covzRP</externallink>
 </channel>
   </channels>
  
