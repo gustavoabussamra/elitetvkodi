@@ -1,92 +1,351 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<item>
-<title>[COLOR white][B]1x01 . Realize o acordo[/B][/COLOR]</title>
-<link>https://www.blogger.com/video-play.mp4?contentId=493119be16ec0c3</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x01 . Carregando[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP01.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x02 . Negligência letal[/B][/COLOR]</title>
-<link>https://www.blogger.com/video-play.mp4?contentId=af637567073d026f</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x02 . Rocket Ball[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP02.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x03 . Disparo de erross[/B][/COLOR]</title>
-<link>https://www.blogger.com/video-play.mp4?contentId=db60e824145b73ba</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x03 . Atlas[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP03.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x04 . cavalo de Tróia[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1b3A_FgOqwRv8Rn4NkiwgoToJyKSWtHYQ/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x04 . Astro Vs Atlas[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP04.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x05 . Dia de Groundhog[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1R5jF_2-3N1y1T8xdPDvjK_VWnOBk_cXM/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x05 . Destino Deimons[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP05.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x06 . A Guerra fria quente[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1lutAfWTYo_9KgER16HgVjUWRWFKnXEAU/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x06 . Indo Aos Ares[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP06.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x07 . Instabilidade refrigerada[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1z6OOdu20z3PLGOMQP1lCEZjDV7mrHpM1/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x07 . O Vale Do Arco Iris[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP07.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x08 . Você procurou por isso[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1CQOFhA4uhWjEGCkAwnL1n76lUYnHtrFC/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x08 . Expresso Neon[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP08.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x09 . Aquele que o segue obtém[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1qyOd9tdNLluGV_fj3w4mHROr2j9naKNR/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x09 . Franken[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP09.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x10 . Não há mais máscaras[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1lOHCtm5H-tbV2S98GnmEhw-ER2E0gT5P/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x10 . Robos De Venus[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP10.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x11 . O chefe do plano[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1KkvTEVejtdJWXPfNO2oTVF7KGs_U1rwK/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x11 . Reativando Jumbo[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP11.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x12 . Eficiência[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1Czx86NuTRV2eV6Y3ZAWL6LaGcAR8zNGa/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x12 . Robot Circus[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP12.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
  
-<item>
-<title>[COLOR white][B]1x13 . O que fizemos?[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=/file/d/1mAVJjQa-UbzRD4bNp4DTripDzpD1R5KS/view</link>
-<thumbnail>https://www.thetvdb.com/banners/_cache/posters/327417-2.jpg</thumbnail>
-<fanart>https://goo.gl/57t2gP</fanart>
-</item>
+    <item>
+        <title>[COLOR white][B]1x13 . O Desafio De Pluto[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP13.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x14 . A Queda De Akeron[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP14.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x15 . O Lago Do Dragão[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP15.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x16 . Perdido Longe De Casa[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP16.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x17 . Cidade Subterranea[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP17.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x18 . O Cavaleiro Azul[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP18.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x19 . Perigo Em Idra[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP19.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x20 . Explosão No Centro Da Terra[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP20.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x21 . O Segredo Do Cavaleiro Azul[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP21.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x22 . O Circo Robo[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP22.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x23 . Little Sister, Big Trouble[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP23.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x24 . Micro Aventura[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP24.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x25 . Apenas Uma Maquina[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP25.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x26 . Menino Robô[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP26.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x27 . O Desperta Da Revolução Tecnológica[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP27.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x28 . A Lenda De Toron[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP28.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x29 . A Marcha Do Micro Urso[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP29.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x30 . Macaco Velho, Truques Novos[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP30.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x31 . O Caso Da Ave Fantasma[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP31.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x32 . Gideon[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP32.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x33 . Fairy Tale[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP33.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x34 . Shape Shifter[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP34.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x35 . Pássaros De Fogo[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP35.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x36 . Space Academy[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP36.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x37 . Atlas Contra Ataca[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP37.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x38 . Robô De Combate[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP38.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x39 . Caçadores Do Futuro[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP39.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x40 . Escape Da Ilha Do Vulcão[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP40.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x41 . Avalanche[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP41.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x42 . A Batalha Da Ilha De Aço[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP42.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x43 . Robô Secreto[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP43.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x44 . Na Toca Do Dragão[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP44.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x45 . A Noite Anterior A Revolução[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP45.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x46 . Robotonia[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP46.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x47 . Luta Final Em Robotonia[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP47.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x48 . Jornada Para O Amanhã[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP48.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x49 . O Renascimento De Astro[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP49.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
+ 
+    <item>
+        <title>[COLOR white][B]1x50 . A Batalha Final[/B][/COLOR]</title>
+        <link>http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/ASTRBOYEP50.mp4</link>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/71952-2.jpg</thumbnail>
+        <fanart>https://goo.gl/yiwTw4</fanart>
+    </item>
