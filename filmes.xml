@@ -105,4 +105,12 @@
 		<externallink>https://goo.gl/3tcujW</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
+	
+	<channels>
+		</channels><channel>
+		<name>[COLOR white][B]Suspense[/B][/COLOR]</name>
+		<thumbnail>http://assistironline.esy.es/suspense.png</thumbnail>
+		<externallink>link</externallink>
+		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
+	</channel>
 
