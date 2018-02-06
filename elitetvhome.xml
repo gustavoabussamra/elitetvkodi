@@ -26,8 +26,7 @@
       <name>Canais TV - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/canais.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link></link>
-  <externallink>https://goo.gl/XSgzDo</externallink>
+<link>https://goo.gl/XSgzDo</link>
 </channel>
   </channels>
  
@@ -36,8 +35,7 @@
       <name>Animes - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/animes.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link></link>
-  <externallink>https://goo.gl/covzRP</externallink>
+<link>https://goo.gl/covzRP</link>
 </channel>
   </channels>
  
@@ -46,7 +44,8 @@
       <name>Desenhos - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/desenho.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link>https://goo.gl/ktghS2</link>
+<link></link>
+   <externallink>https://pastebin.com/raw/waHnzSFh>
 </channel>
   </channels>
  
@@ -56,7 +55,7 @@
   <thumbnail>http://assistironline.esy.es/seriado.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 <link></link>
-   <externallink>https://goo.gl/mXUX29</externallink>
+   <externallink>https://pastebin.com/raw/waHnzSFh>
 </channel>
   </channels>
  
@@ -65,8 +64,7 @@
       <name>Filmes - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/filmes.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
-<link></link>
-   <externallink>https://goo.gl/ktghS2</externallink>
+<link>https://goo.gl/vW5EYQ</link>
 </channel>
   </channels>
  
