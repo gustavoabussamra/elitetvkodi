@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<channels>
+
  <channel>
       <name>[COLOR orange][B]Lista de Animes[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/icon.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
  <info>Se tiver algum conteúdo fora do ar ou caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970</info>
 <link></link>
-   <externallink>>
+ 
 </channel>
-  </channels>
+
  
 <channel>
 <name>[COLOR white][B]Astro Boy[/B][/COLOR]</name>
@@ -49,6 +49,7 @@
 <channels>
 </channels><channel>
 <name>[COLOR white][B]After War Gundam X[/B][/COLOR]</name>
+
 <thumbnail>https://img.fstatic.com/51L9NYzZ4kzlHeQKWEzc0na2FNo=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2016/03/gundam-x_tNone.jpg</thumbnail>
 <externallink>https://goo.gl/y6Us3m</externallink>
 <fanart>https://i.ytimg.com/vi/jBm3GUHptoo/maxresdefault.jpg</fanart>
