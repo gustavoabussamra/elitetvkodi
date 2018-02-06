@@ -7,7 +7,7 @@
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
  <info>Seja bem vindo ao EliteTV aqui vai encontrar o melhor conteúdo com diversos filmes, seriados, desenhos, animes entre outros caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970  </info>
 <link></link>
-   <externallink></externallink>
+   <externallink>semlink</externallink>
 </channel>
   </channels>
  
@@ -17,7 +17,7 @@
   <thumbnail>http://assistironline.esy.es/icon.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 <link></link>
-   <externallink>>
+   <externallink>semlink</externallink>
 </channel>
   </channels>
  
@@ -47,7 +47,7 @@
   <thumbnail>http://assistironline.esy.es/desenho.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 <link></link>
-   <externallink></externallink>
+   <externallink>semlink</externallink>
 </channel>
   </channels>
  
@@ -57,7 +57,7 @@
   <thumbnail>http://assistironline.esy.es/seriado.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 <link></link>
-   <externallink></externallink>
+   <externallink>https://goo.gl/mXUX29</externallink>
 </channel>
   </channels>
  
@@ -77,6 +77,6 @@
   <thumbnail>http://assistironline.esy.es/documentarios.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 <link></link>
-   <externallink></externallink>
+   <externallink>semlink</externallink>
 </channel>
   </channels>
