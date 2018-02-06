@@ -1,32 +1,29 @@
 <channels>
  <channel>
-      <name>[COLOR orange][B]Categorias de Filmes[/B][/COLOR]</name>
+      <name>[COLOR orange][B]Categorias Filmes[/B][/COLOR]</name>
   <thumbnail>http://assistironline.esy.es/icon.png</thumbnail>
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
- <info>Caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970</info>
+ <info>Se tiver algum conteúdo fora do ar ou caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970</info>
 <link></link>
    <externallink>>
 </channel>
   </channels>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Lançamentos[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/lancamento.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>	
 
-    <channels>
-        </channels><channel>
+   <channel>
         <name>[COLOR white][B]Filmes Classico[/B][/COLOR]</name>
         <thumbnail>http://assistironline.esy.es/classico.png</thumbnail>
         <externallink>https://pastebin.com/raw/</externallink>
         <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
     </channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Filmes De Super-Heróis[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/heroi.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
@@ -34,80 +31,70 @@
 	</channel>
 
 
-<channels>
-		</channels><channel>
+    <channel>
 		<name>[COLOR white][B]Ação[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/acao.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Animação[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/animacao.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Aventura[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/aventura.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Comédia[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/comedia.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Drama[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/drama.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Ficção científica[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/ficcao.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Guerra[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/guerra.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Nacional[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/nacional.png</thumbnail>
 		<externallink>https://pastebin.com/raw/</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Terror[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/terror.png</thumbnail>
 		<externallink>https://goo.gl/3tcujW</externallink>
 		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 	</channel>
 	
-	<channels>
-		</channels><channel>
+	<channel>
 		<name>[COLOR white][B]Suspense[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/suspense.png</thumbnail>
 		<externallink>link</externallink>
