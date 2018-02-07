@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- <channel>
-      <name>[COLOR orange][B]Categorias Filmes[/B][/COLOR]</name>
-  <thumbnail>http://assistironline.esy.es/icon.png</thumbnail>
-<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
- <info>Se tiver algum conteúdo fora do ar ou caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970</info>
-<link></link>
-
-</channel>
-
 	<channel>
 		<name>[COLOR white][B]Lançamentos[/B][/COLOR]</name>
 		<thumbnail>http://assistironline.esy.es/lancamento.png</thumbnail>
