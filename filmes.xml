@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
 
  <channel>
       <name>[COLOR orange][B]Categorias Filmes[/B][/COLOR]</name>
@@ -6,5 +7,21 @@
 <fanart>http://assistironline.esy.es/fanart.jpg</fanart>
  <info>Se tiver algum conteúdo fora do ar ou caso não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99668-0970</info>
 <link></link>
-
+ 
+</channel>
+ 
+<channels>
+</channels><channel>
+		<name>[COLOR white][B]Lançamentos[/B][/COLOR]</name>
+		<thumbnail>http://assistironline.esy.es/lancamento.png</thumbnail>
+		<externallink>https://pastebin.com/raw/</externallink>
+		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
+</channel>
+ 
+<channels>
+</channels><channel>
+		<name>[COLOR white][B]Terror[/B][/COLOR]</name>
+		<thumbnail>http://assistironline.esy.es/terror.png</thumbnail>
+		<externallink>https://goo.gl/3tcujW</externallink>
+		<fanart>http://assistironline.esy.es/fanart.jpg</fanart>
 </channel>
