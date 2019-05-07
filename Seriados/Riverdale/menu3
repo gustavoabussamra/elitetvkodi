@@ -1,14 +1,14 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR white]DUBLADO[/COLOR][/B]</name>
+<name>[B][COLOR white]DUBLADO - [COLOR orange]EliteTv[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/thumb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/3-dub</externallink>
 <fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/fanart.jpg</fanart>
 <info>[B][COLOR white]OPÇÃO CONTENDO CONTEÚDO DUBLADO.[/COLOR][/B]</info>
 </channel>
 <channel>
-<name>[B][COLOR white]LEGENDADO[/COLOR][/B]</name>
+<name>[B][COLOR white]LEGENDADO - [COLOR orange]EliteTv[/COLOR][/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/thumb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/3-leg</externallink>
 <fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/Seriados/Riverdale/fanart.jpg</fanart>
