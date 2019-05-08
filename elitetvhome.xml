@@ -3,8 +3,8 @@
 <channels>
  <channel>
       <name>[COLOR orange][B]EliteTv Kodi Brasil[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/icon.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
  <info>Seja bem vindo ao EliteTV aqui vai encontrar o melhor conteúdo com diversos filmes, seriados, desenhos, animes entre outros caso algum conteúdo fique fora do ar ou não encontre algum conteúdo que gostaria pode fazer o pedido pelo WhatsApp (11) 99858-2134  </info>
 <link></link>
    <externallink>semlink</externallink>
@@ -14,8 +14,8 @@
 <channels>
  <channel>
       <name>[COLOR white]-------------[/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/icon.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
    <externallink>semlink</externallink>
 </channel>
@@ -24,29 +24,29 @@
 <channels>
  <channel>
       <name>Canais TV - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/canais.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/canais.png</thumbnail>
   <info>Os canais para ser liberado entre em contato no WhatsApp (11) 99858-2134 para pedir a liberação e fazer o seu teste  </info>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
-<externallink>http://bit.ly/2J1XaJX</externallink>
+<externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/canaiselite.xml</externallink>
 </channel>
   </channels>
  
 <channels>
  <channel>
       <name>Animes - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/animes.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/animes.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
-<externallink>http://bit.ly/2IZQj3z</externallink>
+<externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/animes.xml</externallink>
 </channel>
   </channels>
  
 <channels>
  <channel>
       <name>Desenhos - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/desenho.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/desenho.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
    <externallink>semlink</externallink>
 </channel>
@@ -55,28 +55,28 @@
 <channels>
  <channel>
       <name>Seriados - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/seriado.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/seriado.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
-   <externallink>http://bit.ly/2H3fC2n</externallink>
+   <externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/seriado.xml</externallink>
 </channel>
   </channels>
  
 <channels>
  <channel>
       <name>Filmes - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/filmes.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/filmes.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
-  <externallink>http://bit.ly/2PN0fxU</externallink>
+  <externallink>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/filmes.xml</externallink>
 </channel>
   </channels>
  
 <channels>
  <channel>
-      <name>Documentarios - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
-  <thumbnail>https://elitekoditv.000webhostapp.com/documentarios.png</thumbnail>
-<fanart>https://elitekoditv.000webhostapp.com/fanart.jpg</fanart>
+      <name>Shows - [COLOR orange][B]EliteTv[/B][/COLOR]</name>
+  <thumbnail>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/shows.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/gustavoabussamra/elitetvkodi/master/images/fanart.jpg</fanart>
 <link></link>
    <externallink>semlink</externallink>
 </channel>
